@@ -1,4 +1,7 @@
 # Durger King
+
+**ЦКП:** Учебный интерфейс оформления заказа еды в Telegram по образцу Durger King.
+
 This project is based on the [@DurgerKing](https://t.me/DurgerKingBot), and it's about a bot that allows you to order food from restaurants.
 
 You can try this bot at [@DurgerKingExampleBot](https://t.me/DurgerKingExampleBot).
